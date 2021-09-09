@@ -1,0 +1,16 @@
+
+
+HELP                         XENON CHAT SERVER                      HELP
+
+NAME
+     chat server for chatting purpose
+
+SYNOPSIS
+     login <username> 	        : login and set username
+     help             	        : see the documentation file
+     send <message>             : send all the client message
+     whisp <username> <message> : private chat to a specific user
+     logout                     : disconnect from server
+     alias                      : change username
+     file                       : transfer file
+
